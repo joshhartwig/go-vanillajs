@@ -1,1 +1,1 @@
-Lesson: create database model interface
+Lesson: movie details component
